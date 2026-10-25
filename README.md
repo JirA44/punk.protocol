@@ -1,3 +1,13 @@
+## Français
+
+Dépôt du projet Punk.Protocol, une initiative DeFi pour Ethereum. Il sert à explorer son approche et ses composants ; examinez le code et les risques avant toute interaction financière.
+
+## English
+
+Repository for Punk.Protocol, a DeFi initiative for Ethereum. Use it to explore the project approach and components; review the code and risks before any financial interaction.
+
+---
+
 # Punk.Protocol
 
 #### We’re designing financial weapon blueprint for Punkers. Hang in there!
